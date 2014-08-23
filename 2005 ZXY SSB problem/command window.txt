@@ -1,0 +1,2 @@
+Import Wizard created variables in the current workspace.
+>> plot(data(:,1),data(:,2:5))
